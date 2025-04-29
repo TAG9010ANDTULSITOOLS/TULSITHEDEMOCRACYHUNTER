@@ -1,62 +1,71 @@
-# Tulsi The Democracy Hunter
+# FREEDOMWARE PROJECTS
 
-🛡️ A powerful free tool built to defend freedom, transparency, and privacy in the modern digital world.
+> Built for freedom. Powered by truth. Licensed for everyone.
 
----
+This collection of tools is created to fight back against systemic control, mass surveillance, and technological oppression.
 
-## Mission
-
-Tulsi The Democracy Hunter was created to:
-- Verify the security and authenticity of any code.
-- Detect suspicious or malicious patterns hidden inside software repositories.
-- Ensure citizens and developers work with **clean, transparent, and safe software**.
-- Support a **global movement** towards open governance, ethical innovation, and digital freedom.
+These projects are built using A.I assistance combined with human vision — to accelerate humanity's move toward privacy, autonomy, and dignity.
 
 ---
 
-## Main Features
+## 🔥 The Projects
 
-- 🧹 **Scan GitHub repositories** for hidden backdoors and dangerous behaviors.
-- 🧹 **Scan pasted code locally** for malware, spyware, or suspicious patterns.
-- 🧹 **Drag and Drop code files** to instantly check them.
-- 🛡️ **View Tulsi’s own source code live** (Full Source Transparency Mode).
-- 🛡️ **Enter "Tulsi Blind Mode"**:
-  - Touch and modify the running code by inserting/removing basic programming symbols.
-  - See syntax errors live.
-  - Compare behavior with external editors like **VScodium** to verify authenticity.
+- **TULSIFOXZERO**  
+  A browser focused on full anonymity, no microphones or cameras, MAC address randomization, and built-in ad-blocking.
 
----
+- **TULSITHECONVERTER**  
+  A tool to paste code and rebuild it with a new GUI, encryption, and icon — creating a stronger, more secure version.
 
-## License
+- **CRYPTOTULSI**  
+  A cryptocurrency designed for anonymous transactions without wallets, merging VPN-like networking directly into the network itself.
 
-This project is released under the **TAG9010 LICENSE**,  
-a new type of license dedicated to building a free, safe, humane future for all humanity.
+- **TULSITHEDemocracyHunter**  
+  A scanner to detect telemetry, spyware, and hidden backdoors in any code you paste — fighting hidden surveillance.
 
-See the `LICENSE` file for full terms.
+- **TULSICHAT**  
+  A privacy-first communications platform with a transparent \"View Source Code\" feature and \"Tulsi Blind Mode\" live code authentication.
 
 ---
 
-## Background
+## 🛠️ Special Features
 
-Tulsi The Democracy Hunter is not only a software tool —  
-it is part of a **larger vision** for engineering better societies without depending on corrupted governments, corporations, or obsolete institutions.
+- **View Source Code Button**  
+  See the code live and verify that it matches what is really running inside.
 
-Freedom belongs to the builders. 🛡️
-
----
-
-## How to Use
-
-1. Clone or download this project.
-2. Run the program with Python 3.8+.
-3. Paste code, drag files, or scan repositories!
-4. Enter Blind Mode to verify the integrity of any application.
-5. Help defend digital freedom worldwide.
+- **Tulsi Blind Mode**  
+  Open a second window where you can safely corrupt symbols to generate errors. Compare errors with an external IDE like VSCodium. If errors match, the source code is authentic.
 
 ---
 
-## Build Status
+## 🚀 Project Status
 
-✅ Stable Release  
-✅ 100% Open Source  
-✅ Free Forever
+All projects are in early development.  
+They need improvements, contributions, and testing from people who believe in freedom.
+
+Anyone is free to use, modify, and redistribute them under the MIT License.
+
+---
+
+## ⚡ License
+
+These projects are released under the **MIT License**.  
+You have full rights to:
+- Use
+- Modify
+- Distribute
+- Commercialize
+
+Freedom first — no restrictions.
+
+---
+
+## ✊ About the Creator
+
+Built by **TAG9010**, founder of the FREEDOMWARE initiative.
+
+Because freedom belongs to the builders — not the bureaucrats.
+
+---
+
+> “If we complete these systems, no tyrant can ever lock humanity down again.”  
+> — TAG9010
